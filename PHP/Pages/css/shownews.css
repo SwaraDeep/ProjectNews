@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+.p1{
+	margin-top: 150px;
+	float: left;
+	width: 100%;
+}
+body{
+	font-family:Segoe UI, Segoe UI Midlevel, Segoe WP, Arial, Sans-Serif;
+}
+.p2{
+	padding-top: 50px;
+	width: 35%;
+	float: left;
+}
+
+.p3{
+	float: left;
+	width: 60%;
+	margin-left: 40px;	
+}
+
+img{
+	margin: 16px;
+	border-radius: 16px;
+}
+
+.title{
+	font-size: xx-large;
+	color: white;
+	padding-top: 30px;
+}
+
+.description{
+	padding-top: 30px;
+	font-size:large;
+	color: white;
+}
+
+.author{
+	padding-top: 30px;
+	color: white;
+}
+
+
